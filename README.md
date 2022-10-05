@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jud1
 - 👀 I’m interested in Javascript Fullstack develop
-- 🌱 I’m currently learning vue.js
+- 🌱 I’m currently learning ~~vue.js~~ React & Next.js
 - 💞️ I’m looking to collaborate in anything that may be useful
 - 📫 contacto@jud.cl
 
